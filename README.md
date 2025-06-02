@@ -1,2 +1,2 @@
 # exsample-lab
-example-lab
+これはテスト用のリポジトリです。
